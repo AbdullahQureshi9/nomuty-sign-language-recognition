@@ -36,10 +36,10 @@ NOMUTY aims to reduce this gap by recognizing hand signs through a camera-based 
 - Machine Learning
 - Computer Vision
 
-##Project Status
+## Project Status
 The complete Android source code is currently unavailable. This repository contains the recovered project artifacts, including documentation, training code, and trained model files.
 
-##What I Learned
+## What I Learned
 Software requirement specification
 Computer vision workflow
 Machine learning model training
